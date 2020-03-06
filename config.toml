@@ -1,0 +1,36 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "LT-100 Introduction to Liturgical Translation"
+theme = "hugo-theme-learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+
+[params]
+  description = "Documentation for Hugo Learn Theme"
+  author = "Dcn. James Hargrave, OCMC"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "LT-100 Introduction to Liturgical Translation"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> AGES DCS"
+identifier = "ages"
+url = "https://www.agesinitiatives.com/dcs/public/dcs"
+weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> OLW"
+identifier = "olw"
+url = "https://olw.ocmc.org"
+weight = 20

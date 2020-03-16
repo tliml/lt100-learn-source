@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/tliml/lt100-learn-site.git
-	branch = master

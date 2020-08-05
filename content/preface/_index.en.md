@@ -1,9 +1,9 @@
 +++
 title = "Preface"
 date = 2020-03-06T16:07:59-05:00
-weight = 5
+weight = 2
 chapter = true
-pre = "<b>1. </b>"
+pre = "<b>II. </b>"
 +++
 
 ### Preface

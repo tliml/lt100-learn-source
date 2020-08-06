@@ -1,5 +1,5 @@
 +++
-title = "3.1.4 People"
+title = "iv. People"
 date =  2020-08-05T11:32:26-07:00
 weight = 11
 +++
@@ -8,12 +8,12 @@ weight = 11
 
 2.Hymns
 
-    2.1 Hymns with Multiple Musical Settings
+- Hymns with Multiple Musical Settings
 
-    2.2 Idiomela
+- Idiomela
 
-    2.3 Automela
+- Automela
 
-    3.Prayers
+3.Prayers
 
-    4.Scripture
+4.Scripture

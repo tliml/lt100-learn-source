@@ -1,7 +1,9 @@
 +++
-title = "3.1.1 Bishops"
+title = "i. Bishops"
 date =  2020-08-05T11:23:18-07:00
-weight = 7.11
+weight = 8
 +++
 
-Lorem Ipsum.
+1. Dialogues
+2. Prayers
+3. Exclamations

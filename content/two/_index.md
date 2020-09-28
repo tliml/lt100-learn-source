@@ -1,0 +1,13 @@
++++
+title = "PART TWO"
+date = 2020-09-28T11:03:22-07:00
+weight = 5
+chapter = true
+pre = "<b>V. </b>"
++++
+
+### PART TWO
+
+# NOTES FOR DISCUSSION SESSIONS ON PLANNING AND ORGANISING A LITURGICAL TRANSLATION PROJECT
+
+Lorem Ipsum.

@@ -10,4 +10,3 @@ pre = "<b>5. </b>"
 
 # How to Translate Idioms
 
-Lorem Ipsum.

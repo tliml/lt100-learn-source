@@ -101,7 +101,7 @@ For each of the following passages:
 1. ...where the worm is unsleeping. (Baptism, Second Exorcism Prayer, tr. Lash)
 1. ...has been counted worthy. (Baptism, Prayer for the Making of a Catechumen, tr. Lash)
 1. Make him/ her glad in the works of his/ her hands. (Baptism, Prayer for the Making of a Catechumen, tr. Lash)
-1. 
+1. Look upon your servant. (Baptism, Third Exorcism Prayer, tr. Lash)
 1. 
 1. 
 1. 

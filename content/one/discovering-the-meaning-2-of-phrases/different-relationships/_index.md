@@ -22,7 +22,7 @@ EXAMPLES
 1.  the sacrament of holy baptism   (Baptism, tr. Lash, p.1)
     **-->** *the sacrament which is holy baptism*
 1. knowledge of salvation (Matins, tr. Lash, p.155) **-->** *the knowledge that (God) saves (someone)* 
-1. descent of the Holy Spirit (Baptism, tr. Lash, p.7) **-->** *the Holy Spirit descends*
+1. the power, operation and descent of the Holy Spirit (Baptism, tr. Lash, p.7) **-->** *the Holy Spirit descends and operates powerfully*
 
 ***
 

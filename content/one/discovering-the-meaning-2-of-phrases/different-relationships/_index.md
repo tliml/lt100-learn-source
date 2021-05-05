@@ -10,7 +10,7 @@ At this point we are concerned primarily with discovering the relationship betwe
 
 Notice that in re-expressing the meaning, some participants have been made explicit. Information that has been made explicit is enclosed in parentheses ( ).
 
-EXAMPLES
+**EXAMPLES**
 
 1. the making of a catechumen  (Baptism, tr. Lash, p.1) 
     **-->** *(someone) makes a catechumen*
@@ -26,8 +26,53 @@ EXAMPLES
 
 ***
 
-EXERCISE 1
+**REMEMBER:**
+
+"Of" phrases express many different relationships. Always study the phrase to discover what the relationship is between the parts. To help in discovering this, re-express EVENT ideas as VERBS.
 
 ***
 
-EXERCISE 2
+**EXERCISE 1**
+
+The following passages are taken from *The Order of the Sacrament of Holy Baptism*, translated by Fr. Ephrem Lash.
+
+For each passage:
+
+(1) First underline every "of" phrase, then
+
+(2) re-express the meaning of the phrase in a way which makes the relationship between the parts clear.
+
+Re-express all EVENT ideas as verbs. Make information explicit, where necessary, and enclose anything you have made explicit in brackets ( ). Look at each example in its context.
+
+1. the Kingdom of the Father (Enarxis)
+1. the commandments of Christ (Litany after the Gospel)
+1. flock of your inheritance (Prayer for the Making of a Catechumen)
+1. the great day of the judgement (First Exorcism)
+1. an Angel of light (Third Exorcism)
+1. soldier of Christ (First Exorcism)
+1. his dread Coming (Second Exorcism)
+1. the secrets of mortals (Prayer after the Great Litany)
+1. voice of his/ her supplication (Prayer for the Making of a Catechumen)
+
+
+
+***
+
+**EXERCISE 2**
+
+Instructions as for EXERCISE 1.
+
+1. a city of Galilee (Luke 4:31)
+1. the city of Joppa (Acts 11:5)
+1. a city of Judah (Luke 1:39)
+1. the city of Nazareth (Luke 2:4)
+1. the city of David (Luke 2:4)
+1. the city of Andrew and Peter (John 1:44)
+1. a city of the Jews (Luke 23:51)
+1. the region of Judea (Acts 8:1)
+
+In which of these examples does "of" mean "called" or "named"?
+
+In which examples does it mean "in the region of"?
+
+In which examples does it mean "where someone lived" or "where someone was born"?

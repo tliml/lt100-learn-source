@@ -10,4 +10,4 @@ pre = "<b>19. </b>"
 
 # Discovering the Meaning 1 -- Event Ideas
 
-Lorem Ipsum.
+Lorem Ipsum

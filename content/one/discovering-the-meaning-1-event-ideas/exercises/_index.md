@@ -27,10 +27,10 @@ For example: death --> *to die*
 
 In each of the examples below, the italicised word expresses an EVENT idea. Rewrite each passage, in English, using a verb to express the EVENT idea.
 
-1.
-1.
-1.
-1.
+1. the Lord who by *death* abolished *death* and destroyed the one who had the power of *death* (First Exorcism)
+1. vessel of *election* (The Tonsure)
+1. fill him/ her with *faith* in you (Prayer for the Making of a Catechumen)
+1. the *Making* of a Catechumen (Prayer for the Making of a Catechumen)
 1.
 1.
 1.
@@ -49,7 +49,7 @@ For each example:
 
 Check the context of the passage wherever necessary.
 
-1.
+1. 
 1.
 1.
 1.

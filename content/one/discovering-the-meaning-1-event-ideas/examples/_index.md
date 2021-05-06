@@ -28,7 +28,7 @@ This could be re-expressed:
 
 ***
 
-* his dread **Coming**
+* his dread **Coming** (Second Exorcism)
 
 This could be re-expressed:
 

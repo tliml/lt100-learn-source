@@ -29,14 +29,14 @@ In each of the examples below, the italicised word expresses an EVENT idea. Rewr
 
 1. the Lord who by *death* abolished *death* and destroyed the one who had the power of *death* (First Exorcism)
 1. vessel of *election* (The Tonsure)
-1. fill him/ her with *faith* in you (Prayer for the Making of a Catechumen)
+1. fill him/ her with *faith* in you, and *hope* and *love* (Prayer for the Making of a Catechumen)
 1. the *Making* of a Catechumen (Prayer for the Making of a Catechumen)
-1.
-1.
-1.
-1.
-1.
-1.
+1. The Lord is the *defender* of my life (Prokeimenon of the Baptism Epistle)
+1. Make [this water]... a *gift* of sanctification (Blessing of Water, Baptism)
+1. your ineffable *love* for mankind (Prayer after the Great Litany, Baptism)
+1. forgiveness of *offences* (Blessing of Water, Baptism)
+1. I await the *resurrection* of the dead (Symbol of Faith)
+1. faith, *reverence* and the fear of God (Great Litany)
 
 ***
 

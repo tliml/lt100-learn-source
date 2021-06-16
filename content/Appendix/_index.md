@@ -21,6 +21,7 @@ pre = "<b>X. </b>"
     1. Axion Estin
     1. The Lord's Prayer
     1. One Is Holy
+    1. We Have Seen the True Light
     1. Let Our Mouths Be Filled
 1. The Resurrection Apolytikia in the Eight Modes
 1. The Dogmatic Theotokia in the Eight Modes

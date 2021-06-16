@@ -14,4 +14,5 @@ weight = 6
 1. Axion Estin
 1. The Lord’s Prayer
 1. One Is Holy
+1. We Have Seen the True Light
 1. Let Our Mouths Be Filled

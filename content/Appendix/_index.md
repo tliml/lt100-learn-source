@@ -23,6 +23,7 @@ pre = "<b>X. </b>"
     1. One Is Holy
     1. We Have Seen the True Light
     1. Let Our Mouths Be Filled
+1. Troparia of the Resurrection
 1. The Resurrection Apolytikia in the Eight Modes
 1. The Dogmatic Theotokia in the Eight Modes
 1. The Lenten Prayer of St Ephrem the Syrian

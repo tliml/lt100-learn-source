@@ -9,5 +9,3 @@ pre = "<b>1. </b>"
 ### Chapter 1
 
 # What is Translation?
-
-Lorem Ipsum.

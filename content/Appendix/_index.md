@@ -26,5 +26,6 @@ pre = "<b>X. </b>"
 1. Troparia of the Resurrection
 1. The Resurrection Apolytikia in the Eight Modes
 1. The Dogmatic Theotokia in the Eight Modes
-1. The Lenten Prayer of St Ephrem the Syrian
-1. The Hymn of Saint Kassia
+1. Gladsome Light
+1. Kataksioson
+1. The Song of Symeon

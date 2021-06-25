@@ -10,6 +10,3 @@ pre = "<b>2. </b>"
 
 # Types of Translation
 
-There are many types of translations.
-
-Here is a draft example.

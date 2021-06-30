@@ -60,6 +60,8 @@ If there is a translation of any of these verses in your own language, or in a n
 
 **Hebrew:**  
 
+*Hebrew text with word-for-word key in English:*
+
 | אֱזָר־נָ֣א | כְגֶ֣בֶר | חֲלָצֶ֑יךָ | וְ֝אֶשְׁאָלְךָ֗ | וְהוֹדִיעֵֽנִי׃ |
 | ------ | ----- | ---- | ------ | ------- |
 | ’ĕ·zār-nā | ḵə·ḡe·ḇer | ḥă·lā·ṣe·ḵā; | wə·’eš·’ā·lə·ḵā, | wə·hō·w·ḏî·‘ê·nî. |
@@ -76,6 +78,8 @@ G. Brace yourelf and stand up like a man; I will ask questions, and you shall an
 
 **Greek:**  
 
+*Greek text with word-for-word key in English:*
+
 | ζῶσαι | ὥσπερ | ἀνὴρ | τὴν | ὀσφύν | σου, | ἐρωτήσω | δέ | σε, |
 | ----- | ----- | ---- | --- | ----- | ---- | ------- | -- | --- | 
 | zosai | osper | anir | tin | osfyn | sou, | erotiso | de | se, |
@@ -88,7 +92,110 @@ G. Brace yourelf and stand up like a man; I will ask questions, and you shall an
 | you | then | me | answer |
 
 *English versions:*  
-A. Gird your loins like a man; and I will ask you, and do you answer me. (LB)  
+A. Gird your loins like a man; and I will ask you, and do you answer me. (LBS)  
 B. Gird up your loins like a man, and I will question you, but as for you, just answer me! (NETS)  
 C. Gird your waist like a man; I will question you, and you shall answer Me. (OSB)
+D. Gird your loins like a man, for I shall ask, and you shall answer me. (LES)
+
+#### 2. Psalm 1:6
+
+**Hebrew:**  
+
+*Hebrew text with word-for-word key in English:*
+
+| כִּֽי־ | יוֹדֵ֣עַ | יְ֭הוָה | דֶּ֣רֶךְ |
+| --- | ---- | ---- | --- |
+| kî- | yō·w·ḏê·a‘ | Yah·weh | de·reḵ |
+| because | knows | Yahweh | way-of |
+
+
+
+| צַדִּיקִ֑ים | וְדֶ֖רֶךְ | רְשָׁעִ֣ים | תֹּאבֵֽד׃ |
+| ----- | ----- | ---- | ------ |
+| ṣad·dî·qîm; | wə·ḏe·reḵ | rə·šā·‘îm | tō·ḇêḏ. |
+| righteous-men | and-way-of | evil-men | will-perish |
+
+*English versions*
+
+A. The righteous are guided and protected by the Lord, but the evil are on the way to their doom. (GNB)
+B. For the Lord knoweth the way of the righteous; but the way of the ungodly shall perish. (KJV)  
+C. for the Lord knows the way of the righteous, but the way of the wicked will perish. (RSV)  
+D. For the Lord watches over the way of the righteous, but the way of the wicked will perish. (NIV)  
+E. For the Lord watches over all the plans and paths of godly men, but the paths of the godless lead to doom. (LB)  
+
+**Greek:**
+
+*Greek text with word-for-word key in English:*
+
+| ὅτι | γινώσκει | Κύριος | ὁδὸν | δικαίων, | καὶ |
+| --- | -------- | ------ | ---- | -------- | --- |
+| oti | ginoskei | Kyrios | odon | dikaion, | kai |
+| that | knows | Lord | way | of-just-people | and |
+
+| ὁδὸς | ἀσεβῶν | ἀπολεῖται. |
+| ---- | ------ | ---------- |
+| odos | asevon | apoleitai. |
+| way | of-impious-people | will-be-destroyed |
+
+*English versions:*
+
+A. For the Lord knows the way of the righteous; but the way of the ungodly shall perish. (LBS)  
+B. because the Lord knows the way of the righteous, and the way of the impious will perish. (NETS)  
+C. For the Lord knows the way ofthe righteous, but the way of the ungodly shall perish. (OSB)  
+D. because the Lord knows the way of the righteous; but the way of the ungodly will perish. (LES)
+
+#### 3. Romans 15:12
+
+*Greek text with word-for-word key in English:*
+
+| ἔσται | ἡ | ῥίζα | τοῦ | ᾿Ιεσσαί, |
+| ----- | - | ---- | --- | -------- |
+| estai | i | riza | tou | Iessai, |
+| there-will-be | the | root | of-the | Jesse, |
+
+
+| καὶ | ὁ | ἀνιστάμενος | ἄρχειν | ἐθνῶν· |
+| --- | - | ----------- | ------ | ------ |
+| kai | o | anistamenos | arxein | ethnon. |
+| and | the | one-rising | to-rule | nations. |
+
+*English versions:*
+
+A. The root of Jesse shall come, he who rises to rule the Gentiles; (RSV)  
+B. There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; (KJV)  
+C. The root of Jesse will spring up, one who will arise to rule over the nations; (NIV)  
+D. The root of Jesse will appear, rising up to govern the Gentiles; (JB)  
+E. There shall be the Root of Jesse, the one raised up to govern the Gentiles; (NEB)  
+F. There shall be an Heir in the house of Jesse, and he will be King over the Gentiles; (LB)   
+G. A descendant of Jesse will appear; he will come to rule the Gentiles. (GNB)   
+
+#### 4. Isaiah 11:10
+
+**Hebrew:**
+
+*Hebrew text with word-for-word key in English:*
+
+| וְהָיָה֙ | בַּיּ֣וֹם | הַה֔וּא | שֹׁ֣רֶשׁ | יִשַׁ֗י |
+| --- | ---- | ---- | ---- | ---- |
+| wə·hā·yāh | bay·yō·wm | ha·hū, | šō·reš | yi·šay, |
+| and-there-shall-be | in-day | that | a-root | of-Jesse, |
+
+
+
+| אֲשֶׁ֤ר | עֹמֵד֙ | לְנֵ֣ס | עַמִּ֔ים | אֵלָ֖יו |
+| ---- | --- | --- | --- | --- |
+| ’ă·šer | ‘ō·mêḏ | lə·nês | am·mîm, | ’ê·lāw |
+| who | shall-stand | as-a-banner-to | the-people | for |
+
+*English versions:*
+
+A. In that day the root of Jesse shall stand as an ensign to the peoples; (RSV)  
+B. And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; (KJV)  
+C. In that day the Root of Jesse will stand as a banner for the peoples; (NIV)  
+D. That day, the root of Jesse, standing as a signal for the peoples, (NJB)  
+E. In that day the root of Jesse, who shall stand as a signal for the peoples (ESV)  
+F. In that day the heir to David’s throne will be a banner of salvation to all the world. (NLT)
+G. A day is coming when the new king from the royal line of David will be a symbol to the nations. (GNT)  
+
+
 

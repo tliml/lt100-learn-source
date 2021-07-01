@@ -13,7 +13,7 @@ To serve any liturgical service in the Orthodox Church, a variety of service boo
     1. Psalter
 1. **Euchologion**
     1. Divine Liturgy
-    1. Proskomidi (Service of Preparation for Divine Liturgy)
+    1. Liturgy of Preparation
     1. Holy Baptism
     1. Holy Matrimony
     1. Anointing of the Sick

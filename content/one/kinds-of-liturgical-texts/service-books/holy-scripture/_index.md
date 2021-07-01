@@ -27,7 +27,7 @@ This book contains the Book of Psalms, organized for liturgical use. It is divid
 This book contains the Old Testament lectionary readings appointed at Vespers and at other services during the Church year. The Prophetologion contains only portions of the Old Testament, because much of the Old Testament is never read liturgically.
 
 {{% notice note %}}
-In the Orthodox Church, Old Testament texts for liturgical use are **not translated from Hebrew**. They are translated from the [Greek Old Testament](https://www.septuagint.bible/home), also called the *Septuagint* or *LXX*. The Greek Old Testament was translated around 300 years before Christ, and it is this version that is most often quoted by New Testament authors. In some places, the Greek Old Testament was translated from different Hebrew manuscripts than those that form the basis of the Hebrew Masoretic Text, which is the basis for most modern translations of the Old Testament from Hebrew.
+In the Orthodox Church, Old Testament texts for liturgical use are **not translated from Hebrew**. They are translated from the [Greek Old Testament](https://www.septuagint.bible/home), also called the *Septuagint* or *LXX*. The Greek Old Testament was translated from Hebrew around 300 years before Christ, and it is this version that is most often quoted by New Testament authors. In some places, the Greek Old Testament was translated from different Hebrew manuscripts than those that form the basis of the Hebrew Masoretic Text, which is the basis for most modern translations of the Old Testament from Hebrew.
 {{% /notice %}}
 
 {{% notice note %}}

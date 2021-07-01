@@ -197,5 +197,79 @@ E. In that day the root of Jesse, who shall stand as a signal for the peoples (E
 F. In that day the heir to David’s throne will be a banner of salvation to all the world. (NLT)
 G. A day is coming when the new king from the royal line of David will be a symbol to the nations. (GNT)  
 
+**Greek**
+
+*Greek text with word-for-word key in English:*
+
+| Καὶ | ἔσται | ἐν | τῇ | ἡμέρᾳ | ἐκείνῃ | ἡ | ρίζα | τοῦ | ᾿Ιεσσαὶ | 
+| --- | ----- | -- | -- | ----- | ------ | - | ---- | --- | ------- | 
+| kai | estai | en | ti | imera | ekeini | i | riza | tou | Iessai | 
+| and | there-will-be | in | the | day | that | the | root | of-the | Jesse | 
+
+| καὶ | ὁ | ἀνιστάμενος | ἄρχειν | ἐθνῶν |
+| --- | - | ----------- | ------ | ----- |
+| kai | o | anistamenos | arxein | ethnon |
+| and | the | one-rising | to-rule | nations |
+
+A. And in that day there shall be a root of Jesse, and he that shall arise to rule over the Gentiles;  
+B. And there shall be on that day the root of Iessai, even the one who stands up to rule nations; (NETS)  
+C. It shall come to pass on that day that there shall be a Root of Jesse who shall arise to rule nations. (OSB)  
+D. And in that day there will be the root of Jesse and the one who rises up to rule nations; (LES)  
+
+#### 5. 2 Corinthians 6:11
+
+*Greek text with word-for-word key in English:*
+
+| Τὸ | στόμα | ἡμῶν | ἀνέῳγε | πρὸς | ὑμᾶς, | Κορίνθιοι, | ἡ | καρδία | ἡμῶν | πεπλάτυνται· |
+| -- | ----- | ---- | ------ | ---- | ----- | ---------- | - | ------ | ---- | ------------ |
+| to | stoma | imon | aneoge | pros | ymas, | Korinthii, | i | kardia | imon | peplatyntai. |
+| the | mouth | of-us | is-open | towards | you, | Corinthians | the | heart | of-us | is-wide |
+
+*English versions:*
+
+A. Our mouth is open to you, Corinthians; our heart is wide. (RSV)  
+B. O ye Corinthians, our mouth is open unto you, our heart is enlarged. (KJV)  
+C. We have spoken freely to you, Corinthians, and opened wide our hearts to you. (NIV)  
+D. Corinthians, we have spoken to you very frankly; our mind has been opened in front of you. (JB)  
+E. Men of Corinth, we have spoken very frankly to you; we have opened our heart wide to you all. (NEB)  
+F. Oh, my dear Corinthian friends! I have told you all my feelings; I love you with all my heart. (LB)  
+G. Dear friends in Corinth! We have spoken frankly to you; we have opened our hearts wide. (GNB)  
+
+----
+
+From the "Introduction" to the *New English Bible:*
+
+> We have conceived our task to be that of understanding the original as precisely as we could (using all available aids), and then saying again in our own native idiom what we believed the author to be saying in his.
+
+From the "Introduction" to the *J. B. Phillips* translation:
+
+> For, as I see it, the translator's function is to understand as fully and deeply as possible what the New Testament writers had to say and then, after a process of what might be called reflective digestion, to write it down in the language of the people today.
+
+From "Translating Liturgy" by Fr. Ephrem Lash:
+
+> [Translations] are always approximations, always no more than attempts to convey in the grammar, idiom and vocabulary of one language what was originally expressed in those of another.
+
+> all translation is interpretation. In one sense there is no such thing as a literal translation, except
+perhaps of railway timetables and telephone directories.
+
+> If liturgical texts are one of the principal
+means by which the truths of the Faith are handed on, if they are one of the
+principal vehicles of the Tradition, then translations must be as precise and
+accurate as possible.
+
+> liturgical worship is one
+of the principal ways, if not the principal way, of transmitting the Tradition to
+the ordinary members of the Christian community. It is through the liturgical
+texts that the ordinary worshipper comes into contact with the theological
+understanding of the Tradition, as it is expressed both in Scripture and in the
+Fathers of the Church. 
+
+>  it is not only Scripture and its interpretation that are mediated by the liturgical texts, there are also frequent allusions to and quotations from the
+writings and teachings of the Church Fathers. These are of great interest and
+importance to the translator, even if it is seldom possible to make them evident to the listener in a translation. 
+
+
+
+
 
 

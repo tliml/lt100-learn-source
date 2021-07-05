@@ -10,4 +10,4 @@ pre = "<b>4. </b>"
 
 # Some English Translations of Liturgical Texts
 
-Lorem Ipsum.
+There are several different translations of Orthodox Christian service books in English, and there are many different translations of the Bible in English. Nearly all English translations of the New Testament have been translated from Greek. Most English translations of the Old Testament and the Psalter have been translated from Hebrew, but some have been translated from Greek.

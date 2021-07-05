@@ -1,10 +1,10 @@
 +++
-title = "Service Books"
+title = "Types of Service Books"
 date =  2021-07-01T12:02:25-07:00
 weight = 5
 +++
 
-To serve any liturgical service in the Orthodox Church, a variety of service books are used. These include:
+To serve any liturgical service in the Orthodox Church, a variety of service books are used. These include *Holy Scripture*, the *Euchologion*, the *Horologion*, the *Synaxarion*, collections of moveable hymns, and a variety of devotional services.
 
 1. **Holy Scripture**
     1. Gospel
@@ -34,12 +34,12 @@ To serve any liturgical service in the Orthodox Church, a variety of service boo
     1. Sixth Hour
     1. Ninth Hour
     1. Typica
+1. **Synaxarion**
 1. **Books of Hymns**
     1. Paraklitiki
     1. Triodion
     1. Pentecostarion
     1. Menaion
-1. **Synaxarion**
 1. **Devotional Services**
     1. The Akathist Hymn
     1. Paraklesis

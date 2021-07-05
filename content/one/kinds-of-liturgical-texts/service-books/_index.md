@@ -43,6 +43,6 @@ To serve any liturgical service in the Orthodox Church, a variety of service boo
 1. **Devotional Services**
     1. The Akathist Hymn
     1. Paraklesis
-    1. Akathists
+    1. Molieben
 
 It is common for special books to be made that contain the most common liturgical texts of the Church. Such books made for lay people are often called "Service Books," and books designed for clergy use are often called "Priest's Service Book," "Hieratikon," or "Liturgikon." These books will contain selections from all or most of the service books listed above.

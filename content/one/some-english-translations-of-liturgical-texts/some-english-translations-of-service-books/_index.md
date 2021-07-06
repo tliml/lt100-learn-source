@@ -4,29 +4,14 @@ date =  2021-07-05T15:03:35-07:00
 weight = 10
 +++
 
-### Translations of the New Testament (Greek)
+In Byzantine music, many hymns are sung according to a specific melody. Translations of these hymns must have a similar meter to the original Greek text, so that the same melody can be used. Translations that are designed to be sung according to Byzantine melodies are called *metered* texts. Translations that are not designed to be sung according to Byzantine melodies are called *unmetered* texts.
 
-#### 1. Some reliable versions that keep fairly close to the structure of the original text.
-* **Lexham English Bible (LEB)**: This is a very literal translation made for Biblical scholarship. It is derived from an interlinear translation of the Greek New Testament.
-* **Revised Standard Version (RSV)**: This version has become the standard version for use in many churches and schools.
-* **New King James Version (NKJV)**: This version is used by the Orthodox Study Bible, and is based on the *Textus Receptus* which is very similar to the *Byzantine text-type* which is used in Orthodox services.
-* **New International Version (NIV)**: Another careful modern version, less literal than the RSV. This version gives a reliable guide to follow where there are differences of interpretation in different versions.
-* **English Standard Version (ESV)**: Another careful modern version, less literal than the RSV.
-* **New American Standard Bible (NASB)**
-* **Translator's New Testament (TNT)**: A rather literal translation, prepared by specialists in New Testament studies. It includes some helpful notes and a glossary.
+### Versions in modern English
 
-#### 2. Other reliable modern versions in a rather formal style of English
-* **New English Bible (NEB)**: An accurate translation made by good scholars. The language is rather formal, and it is therefore not always so easy to understand as the *Good News Bible*. It is useful for reference.
-* **New Jerusalem Bible (NJB)**: An accurate translation made by good scholars. Its footnotes and introductions give helpful explanations of the text.
+* **[Greek Orthodox Archdioces of America (GOA)](https://www.goarch.org/chapel/texts)**. Liturgical texts approved for use by the Greek Orthodox Archdiocese of America., translated by various translators Includes texts for the Divine Liturgy, Matins, Vespers, various Sacraments, Memorials and Funerals, and several Occasional Services. Most hymns are *metered.*
 
-#### 3. Versions in everyday modern English
-* **Good News Bible (GNB)**: A popular version in everyday, modern English, easy to understand. It aims to express the meaning of the original text in a way that ordinary people can understand. This version was also formerly called *Today's English Version.*
-* **
+### Versions in an older style of English
 
-### Translations of the Psalter (Greek)
-
-### Translations of the Old Testament (Greek)
-
-### Translations of the Old Testament (Hebrew)
-
-#### 1. Some reliable versions that keep fairly close to the structure of the original text.
+* **Holy Transfiguration Monastery** has published many service books including the *Menaion*, the *Octoechos*, the *Pentecostarion*, the *Great Horologion*, and a Holy Week service book. Its hymns are *metered*
+* **The Service Book of the Orthodox Church (Hapgood)** translated from Church Slavonic by Isabel Florence Hapgood in 1907. This is one of the first comprehensive service books to have been available in English. It contains the text of the most common services and hymns used in the Orthodox Church. Because it was translated from Slavonic, it does not always reflect the accurate meaning of Greek texts, and the hymns are *unmetered.*
+* **Divine Prayers and Services of the Catholic Orthodox Church of Christ (Nasser)** by Fr. Seraphim Nassar. This book contains the most commonly-used texts from the Horologion, the Sunday Octoechos, the Menaion, the Triodion, and the Pentecostarion. Its hymns are *unmetered.*
